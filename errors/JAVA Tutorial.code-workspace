@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Documents/tutorial"
+		},
+		{
+			"path": "../../../03-task-manager"
+		},
+		{
+			"path": "../../../04-store-api"
+		},
+		{
+			"path": "../../../05-JWT-Basics"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
